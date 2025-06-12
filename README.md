@@ -163,15 +163,5 @@ aws-data-ingestion/
 * Integrate more stock tickers and data sources
 * Implement real-time dashboards using Amazon QuickSight
 
----
 
-## License
-
-MIT License
-
-```
-
----
-
-Let me know if you'd like a `.zip` of this folder, a sample `.gitignore`, or help deploying this to a real GitHub repo.
 ```
