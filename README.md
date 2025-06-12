@@ -162,6 +162,3 @@ aws-data-ingestion/
 * Schedule Lambda using EventBridge
 * Integrate more stock tickers and data sources
 * Implement real-time dashboards using Amazon QuickSight
-
-
-```
